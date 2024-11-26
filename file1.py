@@ -1,1 +1,1 @@
-print("I am branch2");
+print("Merged changes from both branches")
